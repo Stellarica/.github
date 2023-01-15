@@ -1,6 +1,12 @@
-## Welcome!  
-You have stumbled upon the profile for the Stellarica Minecraft Server. This project aims to revolutionize Minecraft by adding various space-related mechanics to the game. 
+## Welcome!
+<!-- sparkles3421 was here -->
+<!-- lmao what why -trainb0y -->
 
-Contributions are welcome. We primarily use [Kotlin](https://kotlinlang.org/) and [Quilt](https://quiltmc.org) to implement new features.
+<hr>
 
-Check out the [Discord](https://discord.gg/sjMY88Wwf8)! 
+This is the github organization for the [Stellarica Project](https://stellarica.net).  
+Stellarica is a science-fiction themed exploration game inside of Minecraft, allowing players to travel between distant planets, build their own starships, and much more!
+  
+<bold>Contributions are welcome</bold>! 
+
+If you want to learn more, check out the [Stellarica Discord Server](https://discord.gg/sjMY88Wwf8)!
