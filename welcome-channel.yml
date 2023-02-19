@@ -32,7 +32,7 @@
   title: Useful Links
 
   links:
-    GitHub: https://github.com/HydrazineMC
+    GitHub: https://github.com/Stellarica
     Server IP: https://play.stellarica.net
     Discord Invite: https://discord.gg/sjMY88Wwf8
     
@@ -40,5 +40,7 @@
   id: ping-roles
 
   roles:
+    1076915244733046844:
+      description: Get pinged for major announcements and events!
     1061475362057486392: 
       description: Get pinged for server updates and changes!
