@@ -9,4 +9,4 @@ Stellarica is a science-fiction themed exploration game inside of Minecraft, all
   
 <bold>Contributions are welcome</bold>! 
 
-If you want to learn more, check out the [Stellarica Discord Server](https://discord.gg/sjMY88Wwf8)!
+If you want to learn more, check out the [Stellarica Discord Server](https://discord.gg/985n83tzXZ)!
