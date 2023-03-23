@@ -32,9 +32,10 @@
   title: Useful Links
 
   links:
+    Website: https://www.stellarica.net
     GitHub: https://github.com/Stellarica
     Server IP: https://play.stellarica.net
-    Discord Invite: https://discord.gg/sjMY88Wwf8
+    Discord Invite: https://discord.gg/985n83tzXZ
     
 - type: roles
   id: ping-roles
