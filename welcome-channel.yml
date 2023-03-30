@@ -37,6 +37,15 @@
     Server IP: https://play.stellarica.net
     Discord Invite: https://discord.gg/985n83tzXZ
     
+- type: links
+  title: Server Vote Sites
+  
+  links:
+    Planet Minecraft: https://www.planetminecraft.com/server/stellarica/
+    Minecraft Server List: https://minecraft-server-list.com/server/494348/
+    Minecraft MP: https://minecraft-mp.com/server-s316037
+    MinecraftServers.org: https://minecraftservers.org/server/648795
+    
 - type: roles
   id: ping-roles
 
